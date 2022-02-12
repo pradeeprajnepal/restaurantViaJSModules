@@ -27,9 +27,9 @@ function generateContact(){
     
     section.appendChild(items);
 
-    contactItem('Email', 'mailto:timpkelly1@gmail.com', 'timpkelly1@gmail.com')
-    contactItem('LinkedIn', 'https://www.linkedin.com/in/tim-patrick-kelly/', 'linkedin.com/in/tim-patrick-kelly')
-    contactItem('Github', 'https://github.com/timkellytk', 'timkellytk')
+    contactItem('Email', 'mailto:pradeepxwon@gmail.com', 'pradeepxwon@gmail.com')
+    contactItem('LinkedIn', 'https://www.linkedin.com/in/pradeeprajnepal/', 'linkedin.com/pradeeprajnepal')
+    contactItem('Github', 'https://github.com/pradeeprajnepal', 'pradeeprajnepal')
 
     content.appendChild(section);
 
